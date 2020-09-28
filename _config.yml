@@ -1,8 +1,8 @@
 title:              Graphic Recording Culb
 email:              your-email@example.com
 description:        Aoyama gakuin University -Fuhashi lab-
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "furuhashilab.github.io/startbootstrap-clean-blog-jekyll/"
+baseurl:            "/startbootstrap"
+url:                "mapconcierge.github.io/startbootstrap/"
 
 # Social Profiles
 twitter_username:   SBootstrap
